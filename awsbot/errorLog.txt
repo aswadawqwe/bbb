@@ -1,0 +1,29 @@
+
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'str' object does not support item assignment
+[<module 'time' (built-in)>] 'str' object does not support item assignment
+[<module 'time' (built-in)>] 'autoReject'
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] 'str' object does not support item assignment
+[<module 'time' (built-in)>] 'result'
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] 'user'
+[<module 'time' (built-in)>] 'str' object does not support item assignment
+[<module 'time' (built-in)>] 'str' object does not support item assignment
+[<module 'time' (built-in)>] 'str' object does not support item assignment
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] 'str' object does not support item assignment
+[<module 'time' (built-in)>] 'str' object does not support item assignment
+[<module 'time' (built-in)>] 'autoReject'
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'Message' is not defined
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
